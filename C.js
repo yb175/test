@@ -2,7 +2,7 @@ import A from "./A.js";
 
 export default function C() {
     if(A()==1){
-        console.log("ok");
+        console.log("hello this is pull shark");
     }
     else {
         while(true){
