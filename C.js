@@ -1,5 +1,5 @@
 import A from "./A.js";
-// testing pull shark 
+// pull shark ki jaiho 
 export default function C() {
     if(A()==1){
         console.log("ok");
