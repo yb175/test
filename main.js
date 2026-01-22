@@ -4,3 +4,5 @@ import C from "./C.js";
 // pullshark idempotency checking 
 B();
 C();
+
+// pull shark faliure test 
