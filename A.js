@@ -1,4 +1,4 @@
 export default function A(){
-    // testing idempotency of pull shark 
+    console.log(testing idempotency of pull shark) ;  
     return 1 ; 
 }
