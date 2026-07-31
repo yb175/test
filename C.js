@@ -5,7 +5,7 @@ export default function C() {
         console.log("ok");
     }
     else {
-        while(true){
+        while(1){
             console.log("crash") ; 
         }
     }
